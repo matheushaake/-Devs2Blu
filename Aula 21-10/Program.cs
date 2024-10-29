@@ -1,0 +1,1 @@
+﻿Aula_21_10.Executor.Executar();
